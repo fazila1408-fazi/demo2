@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Biodata</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            background: #ffffff;
+            padding: 20px;
+            margin: auto;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        h2 {
+            background-color: #4CAF50;
+            color: white;
+            padding: 8px;
+            border-radius: 5px;
+        }
+
+        p, li {
+            font-size: 16px;
+            color: #444;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        section {
+            margin-bottom: 15px;
+        }
+    </style>
+
+</head>
+<body>
+
+<div class="container">
+    <h1>BIO-DATA</h1>
+
+    <section>
+        <h2>Personal Details</h2>
+        <p><strong>Name:</strong> Fazila Begam B</p>
+        <p><strong>Date of Birth:</strong> 14.08.2007</p>
+        <p><strong>Gender:</strong> Female</p>
+        <p><strong>Nationality:</strong> Indian</p>
+        <p><strong>Blood Group:</strong> AB+</p>
+        <p><strong>Languages Known:</strong> Tamil, English</p>
+    </section>
+
+    <section>
+        <h2>Contact Details</h2>
+        <p><strong>Address:</strong> 1, Some, Chennai, Tamil Nadu</p>
+        <p><strong>Phone:</strong> 1234567890</p>
+        <p><strong>Email:</strong> abc@gmail.com</p>
+    </section>
+
+    <section>
+        <h2>Objective</h2>
+        <p>To achieve success through hard work and dedication and to enhance my skills and knowledge.</p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li>School: ABC School</li>
+            <li>Higher Secondary: DEF School</li>
+            <li>Undergraduate: XYZ College</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Communication Skills</li>
+            <li>Basic Computer Knowledge</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Strengths</h2>
+        <ul>
+            <li>Hardworking</li>
+            <li>Quick Learner</li>
+            <li>Positive Attitude</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Reading</li>
+            <li>Listening to Music</li>
+        </ul>
+    </section>
+
+</div>
+
+</body>
+</html>
